@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Website of Jane Doe</title>
+    <link>https://zhangxinshuyue.github.io/tags/</link>
+    <description>Recent content in Tags on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Nov 2022 11:58:14 +0000</lastBuildDate><atom:link href="https://zhangxinshuyue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>游泳</title>
+      <link>https://zhangxinshuyue.github.io/tags/%E6%B8%B8%E6%B3%B3/</link>
+      <pubDate>Tue, 22 Nov 2022 11:58:14 +0000</pubDate>
+      
+      <guid>https://zhangxinshuyue.github.io/tags/%E6%B8%B8%E6%B3%B3/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>真诚</title>
+      <link>https://zhangxinshuyue.github.io/tags/%E7%9C%9F%E8%AF%9A/</link>
+      <pubDate>Tue, 22 Nov 2022 11:58:14 +0000</pubDate>
+      
+      <guid>https://zhangxinshuyue.github.io/tags/%E7%9C%9F%E8%AF%9A/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>篮球</title>
+      <link>https://zhangxinshuyue.github.io/tags/%E7%AF%AE%E7%90%83/</link>
+      <pubDate>Tue, 22 Nov 2022 11:58:14 +0000</pubDate>
+      
+      <guid>https://zhangxinshuyue.github.io/tags/%E7%AF%AE%E7%90%83/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>自律</title>
+      <link>https://zhangxinshuyue.github.io/tags/%E8%87%AA%E5%BE%8B/</link>
+      <pubDate>Tue, 22 Nov 2022 11:58:14 +0000</pubDate>
+      
+      <guid>https://zhangxinshuyue.github.io/tags/%E8%87%AA%E5%BE%8B/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://zhangxinshuyue.github.io/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangxinshuyue.github.io/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
